@@ -1,0 +1,34 @@
+{ "dias" : [
+  {
+    "id" : 1,
+    "nombre" : "Viernes de Dolores"
+  },{
+    "id" : 2,
+    "nombre" : "Sábado de Pasión"
+  },{
+    "id" : 3,
+    "nombre" : "Domingo de Ramos"
+  },{
+    "id" : 4,
+    "nombre" : "Lunes Santo"
+  },{
+    "id" : 5,
+    "nombre" : "Martes Santo"
+  },{
+    "id" : 6,
+    "nombre" : "Miércoles Santo"
+  },{
+    "id" : 7,
+    "nombre" : "Jueves Santo"
+  },{
+    "id" : 8,
+    "nombre" : "Viernes Santo"
+  },{
+    "id" : 9,
+    "nombre" : "Sábado Santo"
+  },{
+    "id" : 10,
+    "nombre" : "Domingo de Resurrección"
+  }
+]
+}
