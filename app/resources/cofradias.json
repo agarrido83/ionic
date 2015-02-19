@@ -2,18 +2,7 @@
   {
     "id" : 1,
     "nombre" : "Venerable Cofradía del Santísimo Cristo del Amparo y María Santísma de los Dolores",
-    "procesiones" : [
-      {
-        "dia" : 1,
-        "sede" : 1,
-        "fundacion" : "1985",
-        "color" : [1],
-        "itinerario" : "2.300 m.",
-        "salida" : "19:00",
-        "recogida" : "23:15-00:30",
-        "pasos" : [1,2,3,4,5,6,7,8]
-      }
-    ]
+    "procesiones" : [1]
   },{
     "id" : 2,
     "nombre" : "Cofradía del Santísimo Cristo de la Fe",
@@ -42,6 +31,15 @@
         "salida" : "20:00",
         "recogida" : "23:15-00:30",
         "pasos" : [11,12,13,14,15,16,17,18]
+      },{
+        "dia" : 9,
+        "sede" : 3,
+        "fundacion" : "2013",
+        "color" : [10],
+        "itinerario" : "1.400 m",
+        "salida" : "17:00",
+        "recogida" : "19:30-19:45",
+        "pasos" : [80]
       }
     ]
   },{
@@ -105,7 +103,134 @@
       }
     ]
   },{
-    
+    "id" : 8,
+    "nombre" : "Real, Muy Ilustre, Venerable y Anqtiquísima Archicofradía de la Preciosísima Sangre de Nuestro Señor Jesucristo",
+    "procesiones" : [
+      {
+        "dia" : 6,
+        "sede" : 8,
+        "fundacion" : "1411",
+        "color" : [9],
+        "itinerario" : "2.900 m",
+        "salida" : "18:00",
+        "recogida" : "22:30-01:00",
+        "pasos" : [45,46,47,48,49,50,51,52,53,54,55]
+      },{
+        "dia" : 7,
+        "sede" : 8,
+        "fundacion" : "1980",
+        "color" : [10],
+        "itinerario" : "2.000 m",
+        "salida" : "18:30",
+        "recogida" : "21:30",
+        "pasos" : [56,57,58]
+      }
+    ]
+  },{
+    "id" : 9,
+    "nombre" : "Cofradía del Santísimo Cristo del Refugio",
+    "procesiones" : [
+      {
+        "dia" : 7,
+        "sede" : 9,
+        "fundacion" : "1942",
+        "color" : [11],
+        "itinerario" : "1.180 m",
+        "salida" : "22:00",
+        "recogida" : "00:00-00:30",
+        "pasos" : [45]
+      }
+    ]
+  },{
+    "id" : 10,
+    "nombre" : "Real y Muy Ilustre Cofradía de Nuestro Padre Jesús Nazareno",
+    "procesiones" : [
+      {
+        "dia" : 8,
+        "sede" : 10,
+        "fundacion" : "1600",
+        "color" : [12],
+        "itinerario" : "3.100 m",
+        "salida" : "08:00",
+        "recogida" : "13:00-15:00",
+        "pasos" : [60,61,62,63,64,65,66,67,68]
+      }
+    ]
+  },{
+    "id" : 11,
+    "nombre" : "Real, Muy Ilustre y Venerable Cofradía de Servitas de María Santísima de las Angustias",
+    "procesiones" : [
+      {
+        "dia" : 8,
+        "sede" : 11,
+        "fundacion" : "1755",
+        "color" : [13],
+        "itinerario" : "1.600 m",
+        "salida" : "18:45",
+        "recogida" : "21:30-21:45",
+        "pasos" : [69,70]
+      }
+    ]
+  },{
+    "id" : 12,
+    "nombre" : "Real y Muy Ilustre Cofradía del Santo Sepulcro de Nuestro Señor Jesucristo",
+    "procesiones" : [
+      {
+        "dia" : 8,
+        "sede" : 11,
+        "fundacion" : "1595",
+        "color" : [10],
+        "itinerario" : "1.600 m",
+        "salida" : "19:00",
+        "recogida" : "22:00-23:00",
+        "pasos" : [71,72,73,74,75]
+      }
+    ]
+  },{
+    "id" : 13,
+    "nombre" : "Cofradía del Santísimo Cristo de la Misericordia",
+    "procesiones" : [
+      {
+        "dia" : 8,
+        "sede" : 12,
+        "fundacion" : "1949",
+        "color" : [14],
+        "itinerario" : "2.300 m",
+        "salida" : "19:30",
+        "recogida" : "23:30-00:00",
+        "pasos" : [76,77,78,79]
+      }
+    ]
+  },{
+    "id" : 14,
+    "nombre" : "Cofradía del Santísimo Cristo Yacente y Nuestra Señora de la Luz en su Soledad",
+    "procesiones" : [
+      {
+        "dia" : 9,
+        "sede" : 7,
+        "fundacion" : "1986",
+        "color" : [15],
+        "itinerario" : "1.280 m",
+        "salida" : "19:00",
+        "recogida" : "21:10-21:30",
+        "pasos" : [81,82]
+      }
+    ]
+  },{
+    "id" : 15,
+    "nombre" : "Real y Muy Ilustre Archicofradía de Nuestro Señor Jesucristo Resucitado",
+    "procesiones" : [
+      {
+        "dia" : 10,
+        "sede" : 13,
+        "fundacion" : "Refundada en 1911",
+        "color" : [15],
+        "itinerario" : "2.600 m",
+        "salida" : "08:15",
+        "recogida" : "12:45-14:30",
+        "pasos" : [83,84,85,86,87,88,89,90,91,92,93]
+      }
+    ]
   }
 ]
 }
