@@ -1,0 +1,111 @@
+{ "cofradías" : [
+  {
+    "id" : 1,
+    "nombre" : "Venerable Cofradía del Santísimo Cristo del Amparo y María Santísma de los Dolores",
+    "procesiones" : [
+      {
+        "dia" : 1,
+        "sede" : 1,
+        "fundacion" : "1985",
+        "color" : [1],
+        "itinerario" : "2.300 m.",
+        "salida" : "19:00",
+        "recogida" : "23:15-00:30",
+        "pasos" : [1,2,3,4,5,6,7,8]
+      }
+    ]
+  },{
+    "id" : 2,
+    "nombre" : "Cofradía del Santísimo Cristo de la Fe",
+    "procesiones" : [
+      {
+        "dia" : 2,
+        "sede" : 2,
+        "fundacion" : "1999",
+        "color" : [2],
+        "itinerario" : "2.700 m",
+        "salida" : "18:00",
+        "recogida" : "22:15-22:45",
+        "pasos" : [9,10]
+      }
+    ]
+  },{
+    "id" : 3,
+    "nombre" : "Muy Ilustre y Venerable Cofradía del Santísimo Cristo de la Caridad",
+    "procesiones" : [
+      {
+        "dia" : 2,
+        "sede" : 3,
+        "fundacion" : "1993",
+        "color" : [3],
+        "itinerario" : "1.800 m",
+        "salida" : "20:00",
+        "recogida" : "23:15-00:30",
+        "pasos" : [11,12,13,14,15,16,17,18]
+      }
+    ]
+  },{
+    "id" : 4,
+    "nombre" : "Pontificia, Real y Venerable Cofradía del Santísimo Cristo de la Esperanza",
+    "procesiones" : [
+      {
+        "dia" : 3,
+        "sede" : 4,
+        "fundacion" : "1954 (1754)",
+        "color" : [4],
+        "itinerario" : "1.784 m",
+        "salida" : "18:00",
+        "recogida" : "21:45-23:10",
+        "pasos" : [19,20,21,22,23,24,25,26]
+      }
+    ]
+  },{
+    "id" : 5,
+    "nombre" : "Real, Ilustre y Muy Noble Cofradía del Santísimo Cristo del Perdón",
+    "procesiones" : [
+      {
+        "dia" : 4,
+        "sede" : 5,
+        "fundacion" : "1896 (1600)",
+        "color" : [5],
+        "itinerario" : "2.300 m",
+        "salida" : "19:00",
+        "recogida" : "23:00-01:00",
+        "pasos" : [27,28,29,30,31,32,33,34,35,36,37]
+      }
+    ]
+  },{
+    "id" : 6,
+    "nombre" : "Hermandad de Esclavos de Nuestro Padre Jesús del Rescate y María Santísima de la Esperanza",
+    "procesiones" : [
+      {
+        "dia" : 5,
+        "sede" : 6,
+        "fundacion" : "1946",
+        "color" : [6,7],
+        "itinerario" : "1.700 m",
+        "salida" : "19:00",
+        "recogida" : "21:45-22:15",
+        "pasos" : [38,39,40]
+      }
+    ]
+  },{
+    "id" : 7,
+    "nombre" : "Pontificia, Real, Hospitalaria y Primitiva Asociación del Santísimo Cristo de la Salud",
+    "procesiones" : [
+      {
+        "dia" : 5,
+        "sede" : 7,
+        "fundacion" : "1957",
+        "color" : [8],
+        "itinerario" : "1.800 m",
+        "salida" : "20:00",
+        "recogida" : "23:00-23:45",
+        "pasos" : [41,42,43,44]
+      }
+    ]
+  },{
+    
+  }
+]
+}
