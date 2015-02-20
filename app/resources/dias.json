@@ -1,34 +1,44 @@
 { "dias" : [
   {
     "id" : 1,
-    "nombre" : "Viernes de Dolores"
+    "nombre" : "Viernes de Dolores",
+    "procesiones" : [1]
   },{
     "id" : 2,
-    "nombre" : "Sábado de Pasión"
+    "nombre" : "Sábado de Pasión",
+    "procesiones" : [2,3]
   },{
     "id" : 3,
-    "nombre" : "Domingo de Ramos"
+    "nombre" : "Domingo de Ramos",
+    "procesiones" : [4]
   },{
     "id" : 4,
-    "nombre" : "Lunes Santo"
+    "nombre" : "Lunes Santo",
+    "procesiones" : [5]
   },{
     "id" : 5,
-    "nombre" : "Martes Santo"
+    "nombre" : "Martes Santo",
+    "procesiones" : [6,7]
   },{
     "id" : 6,
-    "nombre" : "Miércoles Santo"
+    "nombre" : "Miércoles Santo",
+    "procesiones" : [8]
   },{
     "id" : 7,
-    "nombre" : "Jueves Santo"
+    "nombre" : "Jueves Santo",
+    "procesiones" : [9,10]
   },{
     "id" : 8,
-    "nombre" : "Viernes Santo"
+    "nombre" : "Viernes Santo",
+    "procesiones" : [11,12,13,14]
   },{
     "id" : 9,
-    "nombre" : "Sábado Santo"
+    "nombre" : "Sábado Santo",
+    "procesiones" : [15,16]
   },{
     "id" : 10,
-    "nombre" : "Domingo de Resurrección"
+    "nombre" : "Domingo de Resurrección",
+    "procesiones" : [17]
   }
 ]
 }

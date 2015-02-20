@@ -1,15 +1,191 @@
 { "Procesiones" : [
   {
     "id" : 1,
-    "cofradia" : 1,
     "dia" : 1,
-    "sede" : 1,
+    "cofradia" : 1,
+    "templo" : 1,
     "fundacion" : "1985",
-    "color" : [1],
+    "color" : "azul",
     "itinerario" : "2.300 m.",
     "salida" : "19:00",
     "recogida" : "23:15-00:30",
     "pasos" : [1,2,3,4,5,6,7,8]
+  },{
+    "id" : 2,
+    "dia" : 2,
+    "cofradia" : 2,
+    "templo" : 2,
+    "fundacion" : "1999",
+    "color" : "marrón",
+    "itinerario" : "2.700 m",
+    "salida" : "18:00",
+    "recogida" : "22:15-22:45",
+    "pasos" : [9,10]
+  },{
+    "id" : 3,
+    "dia" : 2,
+    "cofradia" : 3,
+    "templo" : 3,
+    "fundacion" : "1993",
+    "color" : "rojo corinto",
+    "itinerario" : "1.800 m",
+    "salida" : "20:00",
+    "recogida" : "23:15-00:30",
+    "pasos" : [11,12,13,14,15,16,17,18]
+  },{
+    "id" : 4,
+    "dia" : 3,
+    "cofradia" : 4,
+    "templo" : 4,
+    "fundacion" : "1954 (1754)",
+    "color" : "verde",
+    "itinerario" : "1.784 m",
+    "salida" : "18:00",
+    "recogida" : "21:45-23:10",
+    "pasos" : [19,20,21,22,23,24,25,26]
+  },{
+    "id" : 5,
+    "dia" : 4,
+    "cofradia" : 5,
+    "templo" : 5,
+    "fundacion" : "1896 (1600)",
+    "color" : "magenta",
+    "itinerario" : "2.300 m",
+    "salida" : "19:00",
+    "recogida" : "23:00-01:00",
+    "pasos" : [27,28,29,30,31,32,33,34,35,36,37]
+  },{
+    "id" : 6,
+    "dia" : 5,
+    "cofradia" : 6,
+    "templo" : 6,
+    "fundacion" : "1946",
+    "color" : "blanco y verde / blanco y morado",
+    "itinerario" : "1.700 m",
+    "salida" : "19:00",
+    "recogida" : "21:45-22:15",
+    "pasos" : [38,39,40]
+  },{
+    "id" : 7,
+    "dia" : 5,
+    "cofradia" : 7,
+    "templo" : 7,
+    "fundacion" : "1957",
+    "color" : "blanco y rojo",
+    "itinerario" : "1.800 m",
+    "salida" : "20:00",
+    "recogida" : "23:00-23:45",
+    "pasos" : [41,42,43,44]
+  },{
+    "id" : 8,
+    "dia" : 6,
+    "cofradia" : 8,
+    "templo" : 8,
+    "fundacion" : "1411",
+    "color" : "rojo",
+    "itinerario" : "2.900 m",
+    "salida" : "18:00",
+    "recogida" : "22:30-01:00",
+    "pasos" : [45,46,47,48,49,50,51,52,53,54,55]
+  },{
+    "id" : 9,
+    "dia" : 7,
+    "cofradia" : 8,
+    "templo" : 8,
+    "fundacion" : "1980",
+    "color" : "negro",
+    "itinerario" : "2.000 m",
+    "salida" : "18:30",
+    "recogida" : "21:30",
+    "pasos" : [56,57,58]
+  },{
+    "id" : 10,
+    "dia" : 7,
+    "cofradia" : 9,
+    "templo" : 9,
+    "fundacion" : "1942",
+    "color" : "negro y morado",
+    "itinerario" : "1.180 m",
+    "salida" : "22:00",
+    "recogida" : "00:00-00:30",
+    "pasos" : [45]
+  },{
+    "id" : 11,
+    "dia" : 8,
+    "cofradia" : 10,
+    "templo" : 10,
+    "fundacion" : "1600",
+    "color" : "morado",
+    "itinerario" : "3.100 m",
+    "salida" : "08:00",
+    "recogida" : "13:00-15:00",
+    "pasos" : [60,61,62,63,64,65,66,67,68]
+  },{
+    "id" : 12,
+    "dia" : 8,
+    "cofradia" : 11,
+    "templo" : 11,
+    "fundacion" : "1755",
+    "color" : "negro y azul",
+    "itinerario" : "1.600 m",
+    "salida" : "18:45",
+    "recogida" : "21:30-21:45",
+    "pasos" : [69,70]
+  },{
+    "id" : 13,
+    "dia" : 8,
+    "cofradia" : 12,
+    "templo" : 11,
+    "fundacion" : "1595",
+    "color" : "negro",
+    "itinerario" : "1.600 m",
+    "salida" : "19:00",
+    "recogida" : "22:00-23:00",
+    "pasos" : [71,72,73,74,75]
+  },{
+    "id" : 14,
+    "dia" : 8,
+    "cofradia" : 13,
+    "templo" : 5,
+    "fundacion" : "1949",
+    "color" : "negro y magenta",
+    "itinerario" : "2.300 m",
+    "salida" : "19:30",
+    "recogida" : "23:30-00:00",
+    "pasos" : [76,77,78,79]
+  },{
+    "id" : 15,
+    "dia" : 9,
+    "cofradia" : 3,
+    "templo" : 3,
+    "fundacion" : "2013",
+    "color" : "negro",
+    "itinerario" : "1.400 m",
+    "salida" : "17:00",
+    "recogida" : "19:30-19:45",
+    "pasos" : [80]
+  },{
+    "id" : 16,
+    "dia" : 9,
+    "cofradia" : 14,
+    "templo" : 7,
+    "fundacion" : "1986",
+    "color" : "blanco",
+    "itinerario" : "1.280 m",
+    "salida" : "19:00",
+    "recogida" : "21:10-21:30",
+    "pasos" : [81,82]
+  },{
+    "id" : 17,
+    "dia" : 10,
+    "cofradia" : 15,
+    "templo" : 13,
+    "fundacion" : "Refundada en 1911",
+    "color" : "blanco",
+    "itinerario" : "2.600 m",
+    "salida" : "08:15",
+    "recogida" : "12:45-14:30",
+    "pasos" : [83,84,85,86,87,88,89,90,91,92,93]
   }
 ]
 }

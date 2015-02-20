@@ -1,0 +1,69 @@
+{ "templos" : [
+  {
+    "id" : 1,
+    "nombre" : "Iglesia Parroquial de San Nicolás de Bari",
+    "cofradias" : [1],
+    "procesiones" : [1]
+  },{
+    "id" : 2,
+    "nombre" : "Iglesia Parroquial de San Francisco de Asís",
+    "cofradias" : [2],
+    "procesiones" : [2]
+  },{
+    "id" : 3,
+    "nombre" : "Iglesia de Santa Catalina de Alejandría",
+    "cofradias" : [3,15],
+    "procesiones" : [3,15]
+  },{
+    "id" : 4,
+    "nombre" : "Iglesia Parroquial de San Pedro Apóstol",
+    "cofradias" : [4],
+    "procesiones" : [4]
+  },{
+    "id" : 5,
+    "nombre" : "Iglesia Parroquial de San Antolín Mártir",
+    "cofradias" : [5],
+    "procesiones" : [5,14]
+  },{
+    "id" : 6,
+    "nombre" : "Iglesia Parroquial de San Juan Bautista",
+    "cofradias" : [6],
+    "procesiones" : [6]
+  },{
+    "id" : 7,
+    "nombre" : "Iglesia de San Juan de Dios",
+    "cofradias" : [7,16],
+    "procesiones" : [7,16]
+  },{
+    "id" : 8,
+    "nombre" : "Iglesia Arcíprestal de Nuestra Señora del Carmen",
+    "cofradias" : [8,9],
+    "procesiones" : [8,9]
+  },{
+    "id" : 9,
+    "nombre" : "Iglesia Parroquial de San Lorenzo Mártir",
+    "cofradias" : [10],
+    "procesiones" : [10]
+  },{
+    "id" : 10,
+    "nombre" : "Iglesia privativa de Jesús",
+    "cofradias" : [11],
+    "procesiones" : [11]
+  },{
+    "id" : 11,
+    "nombre" : "Iglesia de San Bartolomé",
+    "cofradias" : [12,13],
+    "procesiones" : [12,13]
+  },{
+    "id" : 12,
+    "nombre" : "Iglesia Parroquial de San Miguel",
+    "cofradias" : [14],
+    "procesiones" : []
+  },{
+    "id" : 13,
+    "nombre" : "Iglesia Parroquial de Santa Eulalia",
+    "cofradias" : [17],
+    "procesiones" : [17]
+  }
+]
+}

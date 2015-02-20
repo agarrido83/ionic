@@ -1,0 +1,148 @@
+{ "escultores" : [
+  {
+    "id" : 1,
+    "nombre" : "Rafael Roses Rivadavia",
+    "pasos" : []
+  },{
+    "id" : 2,
+    "nombre" : "José Hernández Navarro",
+    "pasos" : []
+  },{
+    "id" : 3,
+    "nombre" : "Antonio Labaña Serrano",
+    "pasos" : []
+  },{
+    "id" : 4,
+    "nombre" : "Nicolás de Bussy y Mignan",
+    "pasos" : []
+  },{
+    "id" : 5,
+    "nombre" : "Gregorio Fernández-Henarejos",
+    "pasos" : []
+  },{
+    "id" : 6,
+    "nombre" : "Francisco Salzillo y Alacaráz",
+    "pasos" : []
+  },{
+    "id" : 7,
+    "nombre" : "Antonio Jesús Yuste Navarro",
+    "pasos" : []
+  },{
+    "id" : 8,
+    "nombre" : "Antonio Dorrego",
+    "pasos" : []
+  },{
+    "id" : 9,
+    "nombre" : "Arturo Serra Gómez",
+    "pasos" : []
+  },{
+    "id" : 10,
+    "nombre" : "Manuel Ardil Pagán",
+    "pasos" : []
+  },{
+    "id" : 11,
+    "nombre" : "Pedro J. Arrué de Mora",
+    "pasos" : []
+  },{
+    "id" : 12,
+    "nombre" : "Ramón Cuenca Santo",
+    "pasos" : []
+  },{
+    "id" : 13,
+    "nombre" : "Francisco Liza Alarcón",
+    "pasos" : []
+  },{
+    "id" : 14,
+    "nombre" : "Antonio Castaño Liza",
+    "pasos" : []
+  },{
+    "id" : 15,
+    "nombre" : "Santiago Baglieto Gierra",
+    "pasos" : []
+  },{
+    "id" : 16,
+    "nombre" : "José Sánchez Lozano",
+    "pasos" : []
+  },{
+    "id" : 17,
+    "nombre" : "Damián Pastor y Micó",
+    "pasos" : []
+  },{
+    "id" : 18,
+    "nombre" : "Salvador Castillejos",
+    "pasos" : []
+  },{
+    "id" : 19,
+    "nombre" : "Miguel Martínez Fernández",
+    "pasos" : []
+  },{
+    "id" : 20,
+    "nombre" : "Francisco Toledo Sánchez",
+    "pasos" : []
+  },{
+    "id" : 21,
+    "nombre" : "Roque López Duarte",
+    "pasos" : []
+  },{
+    "id" : 22,
+    "nombre" : "Francisco Sánchez Araciel",
+    "pasos" : []
+  },{
+    "id" : 23,
+    "nombre" : "Vicente Segura Valls",
+    "pasos" : []
+  },{
+    "id" : 24,
+    "nombre" : "Anónimo",
+    "pasos" : []
+  },{
+    "id" : 25,
+    "nombre" : "Nicolás Salzillo y Gallo",
+    "pasos" : []
+  },{
+    "id" : 26,
+    "nombre" : "Juan González Moreno",
+    "pasos" : []
+  },{
+    "id" : 27,
+    "nombre" : "Gregorio Molera Torá",
+    "pasos" : []
+  },{
+    "id" : 28,
+    "nombre" : "Juan Dorado Brisa",
+    "pasos" : []
+  },{
+    "id" : 29,
+    "nombre" : "Antonio Campillo Párraga",
+    "pasos" : []
+  },{
+    "id" : 30,
+    "nombre" : "Vicente Hernández Couquet",
+    "pasos" : []
+  },{
+    "id" : 31,
+    "nombre" : "Domingo Beltrán",
+    "pasos" : []
+  },{
+    "id" : 32,
+    "nombre" : "Diego de Ayala",
+    "pasos" : []
+  },{
+    "id" : 33,
+    "nombre" : "Clemente Cantos Sánchez",
+    "pasos" : []
+  },{
+    "id" : 34,
+    "nombre" : "José Planes Peñalver",
+    "pasos" : []
+  },{
+    "id" : 35,
+    "nombre" : "Antonio García Mengual",
+    "pasos" : []
+  },{
+    "id" : 36,
+    "nombre" : "Venancio Marco Roig",
+    "pasos" : []
+  }
+]
+}
