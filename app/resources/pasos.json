@@ -2,9 +2,8 @@
   {
     "id" : 1,
     "nombre" : "Ángel de la Pasión",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 1,
+    "grupos" : [{
+      "escultor" : 1,
       "fecha" : "1995"
     }],
     "cofradia" : 1,
@@ -12,9 +11,8 @@
   },{
     "id" : 2,
     "nombre" : "Sagrada Flagelación",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 2,
+    "grupos" : [{
+      "escultor" : 2,
       "fecha" : "1994-1996"
     }],
     "cofradia" : 1,
@@ -22,9 +20,8 @@
   },{
     "id" : 3,
     "nombre" : "Jesús ante Pilatos",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 3,
+    "grupos" : [{
+      "escultor" : 3,
       "fecha" : "1991-1994"
     }],
     "cofradia" : 1,
@@ -32,9 +29,8 @@
   },{
     "id" : 4,
     "nombre" : "Jesús del Gran Poder",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 4,
+    "grupos" : [{
+      "escultor" : 4,
       "fecha" : "1693"
     }],
     "cofradia" : 1,
@@ -42,9 +38,8 @@
   },{
     "id" : 5,
     "nombre" : "Encuentro en el Camino del Calvario",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 5,
+    "grupos" : [{
+      "escultor" : 5,
       "fecha" : "1996"
     }],
     "cofradia" : 1,
@@ -52,9 +47,8 @@
   },{
     "id" : 6,
     "nombre" : "San Juan",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 5,
+    "grupos" : [{
+      "escultor" : 5,
       "fecha" : "2001"
     }],
     "cofradia" : 1,
@@ -62,9 +56,8 @@
   },{
     "id" : 7,
     "nombre" : "María Santísima de los Dolores",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1741"
     }],
     "cofradia" : 1,
@@ -72,9 +65,8 @@
   },{
     "id" : 8,
     "nombre" : "Santísimo Cristo del Amparo",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1739"
     }],
     "cofradia" : 1,
@@ -82,9 +74,8 @@
   },{
     "id" : 9,
     "nombre" : "Santa María de los Ángeles",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 7,
+    "grupos" : [{
+      "escultor" : 7,
       "fecha" : "2014"
     }],
     "cofradia" : 2,
@@ -92,9 +83,8 @@
   },{
     "id" : 10,
     "nombre" : "Santísimo Cristo de la Fe",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 8,
+    "grupos" : [{
+      "escultor" : 8,
       "fecha" : "1959"
     }],
     "cofradia" : 2,
@@ -102,9 +92,8 @@
   },{
     "id" : 11,
     "nombre" : "La Oración en el Huerto",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 9,
+    "grupos" : [{
+      "escultor" : 9,
       "fecha" : "1996"
     }],
     "cofradia" : 3,
@@ -112,9 +101,8 @@
   },{
     "id" : 12,
     "nombre" : "La Flagelación",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 2,
+    "grupos" : [{
+      "escultor" : 2,
       "fecha" : "2007"
     }],
     "cofradia" : 3,
@@ -122,9 +110,8 @@
   },{
     "id" : 13,
     "nombre" : "La Coronación de Espinas",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 2,
+    "grupos" : [{
+      "escultor" : 2,
       "fecha" : "2009-2013"
     }],
     "cofradia" : 3,
@@ -132,12 +119,11 @@
   },{
     "id" : 14,
     "nombre" : "Nuestro Padre Jesús Camino del Calvario",
-    "un_escultor" : false,
-    "escultores" : [{
-      "id" : 10,
+    "grupos" : [{
+      "escultor" : 10,
       "fecha" : "1999"
     },{
-      "id" : 11,
+      "escultor" : 11,
       "fecha" : "2006"
     }],
     "cofradia" : 3,
@@ -145,9 +131,8 @@
   },{
     "id" : 15,
     "nombre" : "Santa Mujer Verónica",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 2,
+    "grupos" : [{
+      "escultor" : 2,
       "fecha" : "2003"
     }],
     "cofradia" : 3,
@@ -155,9 +140,8 @@
   },{
     "id" : 16,
     "nombre" : "San juan",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 12,
+    "grupos" : [{
+      "escultor" : 12,
       "fecha" : "2013"
     }],
     "cofradia" : 3,
@@ -165,9 +149,8 @@
   },{
     "id" : 17,
     "nombre" : "María Dolorosa",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1742"
     }],
     "cofradia" : 3,
@@ -175,9 +158,8 @@
   },{
     "id" : 18,
     "nombre" : "Santísimo Cristo de la Caridad",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 1,
+    "grupos" : [{
+      "escultor" : 1,
       "fecha" : "1994"
     }],
     "cofradia" : 3,
@@ -185,9 +167,8 @@
   },{
     "id" : 19,
     "nombre" : "Dejad que los niños se acerquen a mí",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 13,
+    "grupos" : [{
+      "escultor" : 13,
       "fecha" : "2009"
     }],
     "cofradia" : 4,
@@ -195,12 +176,11 @@
   },{
     "id" : 20,
     "nombre" : "Arrepentimiento y Perdón de María Magdalena",
-    "un_escultor" : false,
-    "escultores" : [{
-      "id" : 13,
+    "grupos" : [{
+      "escultor" : 13,
       "fecha" : "1983-2014"
     },{
-      "id" : 14,
+      "escultor" : 14,
       "fecha" : "1983-2014"
     }],
     "cofradia" : 4,
@@ -208,9 +188,8 @@
   },{
     "id" : 21,
     "nombre" : "Entrada de Jesús en Jerusalén",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 2,
+    "grupos" : [{
+      "escultor" : 2,
       "fecha" : "1984-1987"
     }],
     "cofradia" : 4,
@@ -218,9 +197,8 @@
   },{
     "id" : 22,
     "nombre" : "San Pedro Arrepentido",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1780"
     }],
     "cofradia" : 4,
@@ -228,9 +206,8 @@
   },{
     "id" : 23,
     "nombre" : "Nuestro Padre Jesús Nazareno de la Penitencia",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 15,
+    "grupos" : [{
+      "escultor" : 15,
       "fecha" : "1817"
     }],
     "cofradia" : 4,
@@ -238,9 +215,8 @@
   },{
     "id" : 24,
     "nombre" : "San Juan Evangelista",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 3,
+    "grupos" : [{
+      "escultor" : 3,
       "fecha" : "1984"
     }],
     "cofradia" : 4,
@@ -248,9 +224,8 @@
   },{
     "id" : 25,
     "nombre" : "María Santísima de los Dolores",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "Hacia 1756"
     }],
     "cofradia" : 4,
@@ -258,9 +233,8 @@
   },{
     "id" : 26,
     "nombre" : "Santísimo Cristo de la Esperanza",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1755"
     }],
     "cofradia" : 4,
@@ -268,9 +242,8 @@
   },{
     "id" : 27,
     "nombre" : "Ángeles de la Pasión",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 2,
+    "grupos" : [{
+      "escultor" : 2,
       "fecha" : "2012"
     }],
     "cofradia" : 5,
@@ -278,9 +251,8 @@
   },{
     "id" : 28,
     "nombre" : "Getsemaní",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 2,
+    "grupos" : [{
+      "escultor" : 2,
       "fecha" : "1996"
     }],
     "cofradia" : 5,
@@ -288,9 +260,8 @@
   },{
     "id" : 29,
     "nombre" : "El Prendimiento",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 16,
+    "grupos" : [{
+      "escultor" : 16,
       "fecha" : "1947-1948"
     }],
     "cofradia" : 5,
@@ -298,12 +269,11 @@
   },{
     "id" : 30,
     "nombre" : "Jesús ante Caifás",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 17,
+    "grupos" : [{
+      "escultor" : 17,
       "fecha" : "(Cristo) 1897"
     },{
-      "id" : 18,
+      "escultor" : 18,
       "fecha" : "(Tribunal) 1944"
     }],
     "cofradia" : 5,
@@ -311,9 +281,8 @@
   },{
     "id" : 31,
     "nombre" : "La Flagelación",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 16,
+    "grupos" : [{
+      "escultor" : 16,
       "fecha" : "1945"
     }],
     "cofradia" : 5,
@@ -321,9 +290,8 @@
   },{
     "id" : 32,
     "nombre" : "La Coronación de Espinas",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 2,
+    "grupos" : [{
+      "escultor" : 2,
       "fecha" : "1982"
     }],
     "cofradia" : 5,
@@ -331,12 +299,11 @@
   },{
     "id" : 33,
     "nombre" : "Encuentro en la Vía Dolorosa",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 16,
+    "grupos" : [{
+      "escultor" : 16,
       "fecha" : "(Cristo) 1948"
     },{
-      "id" : 19,
+      "escultor" : 19,
       "fecha" : "(Virgen y San Juan) 1924",
     }],
     "cofradia" : 5,
@@ -344,9 +311,8 @@
   },{
     "id" : 34,
     "nombre" : "La Verónica",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 20,
+    "grupos" : [{
+      "escultor" : 20,
       "fecha" : "1954"
     }],
     "cofradia" : 5,
@@ -354,9 +320,8 @@
   },{
     "id" : 35,
     "nombre" : "El Ascendimiento",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 2,
+    "grupos" : [{
+      "escultor" : 2,
       "fecha" : "1988"
     }],
     "cofradia" : 5,
@@ -364,15 +329,14 @@
   },{
     "id" : 36,
     "nombre" : "Santísimo Cristo del Perdón",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "(Cristo) 1733-1734, (San Juan) 1737"
     },{
-      "id" : 21,
+      "escultor" : 21,
       "fecha" : "(Dolorosa) 1793"
     },{
-      "id" : 22,
+      "escultor" : 22,
       "fecha" : "(Magdalena) 1897"
     }],
     "cofradia" : 5,
@@ -380,9 +344,8 @@
   },{
     "id" : 37,
     "nombre" : "Virgen de la Soledad",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 16,
+    "grupos" : [{
+      "escultor" : 16,
       "fecha" : "1948"
     }],
     "cofradia" : 5,
@@ -390,9 +353,8 @@
   },{
     "id" : 38,
     "nombre" : "Cruz Guía",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 23,
+    "grupos" : [{
+      "escultor" : 23,
       "fecha" : "1955"
     }],
     "cofradia" : 6,
@@ -400,9 +362,8 @@
   },{
     "id" : 39,
     "nombre" : "María Santísima de la Esperanza",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 16,
+    "grupos" : [{
+      "escultor" : 16,
       "fecha" : "1948"
     }],
     "cofradia" : 6,
@@ -410,9 +371,8 @@
   },{
     "id" : 40,
     "nombre" : "Nuestro Padre Jesús del Rescate",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 24,
+    "grupos" : [{
+      "escultor" : 24,
       "fecha" : "S. XVII"
     }],
     "cofradia" : 6,
@@ -420,9 +380,8 @@
   },{
     "id" : 41,
     "nombre" : "Nuestro Padre Jesús de las Mercedes",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 25,
+    "grupos" : [{
+      "escultor" : 25,
       "fecha" : "1713-1725"
     }],
     "cofradia" : 7,
@@ -430,9 +389,8 @@
   },{
     "id" : 42,
     "nombre" : "San Juan Evangelista",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 21,
+    "grupos" : [{
+      "escultor" : 21,
       "fecha" : "1791"
     }],
     "cofradia" : 7,
@@ -440,9 +398,8 @@
   },{
     "id" : 43,
     "nombre" : "Santísima Virgen del Primer Dolor",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1740"
     }],
     "cofradia" : 7,
@@ -450,9 +407,8 @@
   },{
     "id" : 44,
     "nombre" : "Santísimo Cristo de la Salud",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 24,
+    "grupos" : [{
+      "escultor" : 24,
       "fecha" : "Ss. XV-XVI"
     }],
     "cofradia" : 7,
@@ -460,9 +416,8 @@
   },{
     "id" : 45,
     "nombre" : "San Vicente Ferrer",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 12,
+    "grupos" : [{
+      "escultor" : 12,
       "fecha" : "2011"
     }],
     "cofradia" : 8,
@@ -470,9 +425,8 @@
   },{
     "id" : 46,
     "nombre" : "La Samaritana",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 21,
+    "grupos" : [{
+      "escultor" : 21,
       "fecha" : "1799"
     }],
     "cofradia" : 8,
@@ -480,9 +434,8 @@
   },{
     "id" : 47,
     "nombre" : "Jesús en casa de Lázaro",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 2,
+    "grupos" : [{
+      "escultor" : 2,
       "fecha" : "1985"
     }],
     "cofradia" : 8,
@@ -490,9 +443,8 @@
   },{
     "id" : 48,
     "nombre" : "El Lavatorio",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 26,
+    "grupos" : [{
+      "escultor" : 26,
       "fecha" : "1952"
     }],
     "cofradia" : 8,
@@ -500,12 +452,11 @@
   },{
     "id" : 49,
     "nombre" : "La Negación de San Pedro",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 4,
+    "grupos" : [{
+      "escultor" : 4,
       "fecha" : "(San Pedro) 1699"
     },{
-      "id" : 27,
+      "escultor" : 27,
       "fecha" : "(Cristo) 1945"
     }],
     "cofradia" : 8,
@@ -513,15 +464,14 @@
   },{
     "id" : 50,
     "nombre" : "El Pretorio",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 4,
+    "grupos" : [{
+      "escultor" : 4,
       "fecha" : "(Cristo) 1699"
     },{
-      "id" : 16,
+      "escultor" : 16,
       "fecha" : "(Pilatos y Berrugo) 1945"
     },{
-      "id" : 12,
+      "escultor" : 12,
       "fecha" : "(Soldado romano) 2011"
     }],
     "cofradia" : 8,
@@ -529,9 +479,8 @@
   },{
     "id" : 51,
     "nombre" : "Las Hijas de Jerusalén",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 26,
+    "grupos" : [{
+      "escultor" : 26,
       "fecha" : "1956"
     }],
     "cofradia" : 8,
@@ -539,9 +488,8 @@
   },{
     "id" : 52,
     "nombre" : "El Cristo de las Penas",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 2,
+    "grupos" : [{
+      "escultor" : 2,
       "fecha" : "1986"
     }],
     "cofradia" : 8,
@@ -549,9 +497,8 @@
   },{
     "id" : 53,
     "nombre" : "Santísimo Cristo de la Sangre",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 4,
+    "grupos" : [{
+      "escultor" : 4,
       "fecha" : "1693"
     }],
     "cofradia" : 8,
@@ -559,9 +506,8 @@
   },{
     "id" : 54,
     "nombre" : "San Juan",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 28,
+    "grupos" : [{
+      "escultor" : 28,
       "fecha" : "1905"
     }],
     "cofradia" : 8,
@@ -569,9 +515,8 @@
   },{
     "id" : 55,
     "nombre" : "La Dolorosa",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 21,
+    "grupos" : [{
+      "escultor" : 21,
       "fecha" : "1787"
     }],
     "cofradia" : 8,
@@ -579,9 +524,8 @@
   },{
     "id" : 56,
     "nombre" : "Jesús de la Humillación",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 24,
+    "grupos" : [{
+      "escultor" : 24,
       "fecha" : "S. XVII"
     }],
     "cofradia" : 8,
@@ -589,9 +533,8 @@
   },{
     "id" : 57,
     "nombre" : "Cristo del Amor en la Conversión del Buen Ladrón",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 2,
+    "grupos" : [{
+      "escultor" : 2,
       "fecha" : "2011"
     }],
     "cofradia" : 8,
@@ -599,9 +542,8 @@
   },{
     "id" : 58,
     "nombre" : "Nuestra Señora de la Soledad",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 29,
+    "grupos" : [{
+      "escultor" : 29,
       "fecha" : "1985"
     }],
     "cofradia" : 8,
@@ -609,9 +551,8 @@
   },{
     "id" : 59,
     "nombre" : "Santísimo Cristo del Refugio",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 24,
+    "grupos" : [{
+      "escultor" : 24,
       "fecha" : "S. XVI"
     }],
     "cofradia" : 9,
@@ -619,9 +560,8 @@
   },{
     "id" : 60,
     "nombre" : "La Santa Cena",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1763"
     }],
     "cofradia" : 10,
@@ -629,9 +569,8 @@
   },{
     "id" : 61,
     "nombre" : "La Oración en el Huerto",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1754"
     }],
     "cofradia" : 10,
@@ -639,9 +578,8 @@
   },{
     "id" : 62,
     "nombre" : "El Prendimiento",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1763"
     }],
     "cofradia" : 10,
@@ -649,9 +587,8 @@
   },{
     "id" : 63,
     "nombre" : "Los Azotes",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1777"
     }],
     "cofradia" : 10,
@@ -659,9 +596,8 @@
   },{
     "id" : 64,
     "nombre" : "La Verónica",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1755"
     }],
     "cofradia" : 10,
@@ -669,9 +605,8 @@
   },{
     "id" : 65,
     "nombre" : "La Caída",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1752"
     }],
     "cofradia" : 10,
@@ -679,9 +614,8 @@
   },{
     "id" : 66,
     "nombre" : "Nuestro Padre Jesús Nazareno",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 24,
+    "grupos" : [{
+      "escultor" : 24,
       "fecha" : "Anterior a 1600"
     }],
     "cofradia" : 10,
@@ -689,9 +623,8 @@
   },{
     "id" : 67,
     "nombre" : "San Juan",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1756"
     }],
     "cofradia" : 10,
@@ -699,9 +632,8 @@
   },{
     "id" : 68,
     "nombre" : "La Dolorosa",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1755"
     }],
     "cofradia" : 10,
@@ -709,9 +641,8 @@
   },{
     "id" : 69,
     "nombre" : "Ángel Servita. San Gabriel",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 30,
+    "grupos" : [{
+      "escultor" : 30,
       "fecha" : "1858"
     }],
     "cofradia" : 11,
@@ -719,23 +650,225 @@
   },{
     "id" : 70,
     "nombre" : "María Santísima de las Angustias",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 6,
+    "grupos" : [{
+      "escultor" : 6,
       "fecha" : "1739"
     }],
     "cofradia" : 11,
     "procesion" : 12,
   },{
-    "id" : 0,
-    "nombre" : "",
-    "un_escultor" : true,
-    "escultores" : [{
-      "id" : 0,
-      "fecha" : ""
+    "id" : 71,
+    "nombre" : "Santísimo Cristo de Santa Clara la Real (de la Buena Muerte)",
+    "grupos" : [{
+      "escultor" : 6,
+      "fecha" : "1770"
     }],
-    "cofradia" : 0,
-    "procesion" : 0,
+    "cofradia" : 12,
+    "procesion" : 13,
+  },{
+    "id" : 72,
+    "nombre" : "Santísima Virgen de la Amargura",
+    "grupos" : [{
+      "escultor" : 26,
+      "fecha" : "1946"
+    }],
+    "cofradia" : 12,
+    "procesion" : 13,
+  },{
+    "id" : 73,
+    "nombre" : "Santo Sepulcro",
+    "grupos" : [{
+      "escultor" : 26,
+      "fecha" : "1941"
+    }],
+    "cofradia" : 12,
+    "procesion" : 13,
+  },{
+    "id" : 74,
+    "nombre" : "San Juan Evangelista",
+    "grupos" : [{
+      "escultor" : 26,
+      "fecha" : "1952"
+    }],
+    "cofradia" : 12,
+    "procesion" : 13,
+  },{
+    "id" : 75,
+    "nombre" : "Santísima Virgen de la Soledad",
+    "grupos" : [{
+      "escultor" : 24,
+      "fecha" : "S. XVII"
+    }],
+    "cofradia" : 12,
+    "procesion" : 13,
+  },{
+    "id" : 76,
+    "nombre" : "Jesús Nazareno",
+    "grupos" : [{
+      "escultor" : 21,
+      "fecha" : "1797"
+    }],
+    "cofradia" : 13,
+    "procesion" : 14,
+  },{
+    "id" : 77,
+    "nombre" : "Santísimo Cristo de la Misericordia",
+    "grupos" : [{
+      "escultor" : 31,
+      "fecha" : "1581"
+    }],
+    "cofradia" : 13,
+    "procesion" : 14,
+  },{
+    "id" : 78,
+    "nombre" : "Descendimiento",
+    "grupos" : [{
+      "escultor" : 2,
+      "fecha" : "2001"
+    }],
+    "cofradia" : 13,
+    "procesion" : 14,
+  },{
+    "id" : 79,
+    "nombre" : "Nuestra Señora Madre de la Misericordia",
+    "grupos" : [{
+      "escultor" : 16,
+      "fecha" : "1927"
+    }],
+    "cofradia" : 13,
+    "procesion" : 14,
+  },{
+    "id" : 80,
+    "nombre" : "Nuestra Señora del Rosario en sus Misterios Dolorosos",
+    "grupos" : [{
+      "escultor" : 12,
+      "fecha" : "2013"
+    }],
+    "cofradia" : 3,
+    "procesion" : 15,
+  },{
+    "id" : 81,
+    "nombre" : "Santísimo Cristo Yacente",
+    "grupos" : [{
+      "escultor" : 32,
+      "fecha" : "1574"
+    }],
+    "cofradia" : 14,
+    "procesion" : 16,
+  },{
+    "id" : 82,
+    "nombre" : "Nuestra Señora de la Luz en su Soledad",
+    "grupos" : [{
+      "escultor" : 24,
+      "fecha" : "S. XVII"
+    }],
+    "cofradia" : 14,
+    "procesion" : 16,
+  },{
+    "id" : 83,
+    "nombre" : "San Miguel Arcángel",
+    "grupos" : [{
+      "escultor" : 13,
+      "fecha" : "1994"
+    }],
+    "cofradia" : 15,
+    "procesion" : 17,
+  },{
+    "id" : 84,
+    "nombre" : "La Cruz Triunfante",
+    "grupos" : [{
+      "escultor" : 33,
+      "fecha" : "1917"
+    }],
+    "cofradia" : 15,
+    "procesion" : 17,
+  },{
+    "id" : 85,
+    "nombre" : "Nuestro Señor Jesucristo Resucitado",
+    "grupos" : [{
+      "escultor" : 34,
+      "fecha" : "(Cristo y Ángel) 1949"
+    },{
+      "escultor" : 35,
+      "fecha" : "(Romano) 1972"
+    }],
+    "cofradia" : 15,
+    "procesion" : 17,
+  },{
+    "id" : 86,
+    "nombre" : "Las Tres Marías y el Ángel del Señor",
+    "grupos" : [{
+      "escultor" : 3,
+      "fecha" : "1993"
+    }],
+    "cofradia" : 15,
+    "procesion" : 17,
+  },{
+    "id" : 87,
+    "nombre" : "Aparición de Jesús a María Magdalena",
+    "grupos" : [{
+      "escultor" : 3,
+      "fecha" : "1982"
+    }],
+    "cofradia" : 15,
+    "procesion" : 17,
+  },{
+    "id" : 88,
+    "nombre" : "Los Discípulos de Emaús",
+    "grupos" : [{
+      "escultor" : 3,
+      "fecha" : "1983"
+    }],
+    "cofradia" : 15,
+    "procesion" : 17,
+  },{
+    "id" : 89,
+    "nombre" : "La Aparición de Jesús a Santo Tomás",
+    "grupos" : [{
+      "escultor" : 22,
+      "fecha" : "1912"
+    },{
+      "escultor" : 2,
+      "fecha" : "(Cristo) 1994"
+    }],
+    "cofradia" : 15,
+    "procesion" : 17,
+  },{
+    "id" : 90,
+    "nombre" : "Aparición de Jesús en el Lago Tiberiades",
+    "grupos" : [{
+      "escultor" : 3,
+      "fecha" : "1987-1989"
+    }],
+    "cofradia" : 15,
+    "procesion" : 17,
+  },{
+    "id" : 91,
+    "nombre" : "La Ascesción del Señor",
+    "grupos" : [{
+      "escultor" : 2,
+      "fecha" : "2000"
+    }],
+    "cofradia" : 15,
+    "procesion" : 17,
+  },{
+    "id" : 92,
+    "nombre" : "San Juan Evangelista",
+    "grupos" : [{
+      "escultor" : 36,
+      "fecha" : "1912"
+    }],
+    "cofradia" : 15,
+    "procesion" : 17,
+  },{
+    "id" : 93,
+    "nombre" : "La Virgen Gloriosa",
+    "grupos" : [{
+      "escultor" : 16,
+      "fecha" : "1950"
+    }],
+    "cofradia" : 15,
+    "procesion" : 17,
   }
 ]
 }

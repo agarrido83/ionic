@@ -2,147 +2,147 @@
   {
     "id" : 1,
     "nombre" : "Rafael Roses Rivadavia",
-    "pasos" : []
+    "pasos" : [1,18]
   },{
     "id" : 2,
     "nombre" : "José Hernández Navarro",
-    "pasos" : []
+    "pasos" : [2,12,13,15,21,27,28,32,35,47,52,57,78,89,91]
   },{
     "id" : 3,
     "nombre" : "Antonio Labaña Serrano",
-    "pasos" : []
+    "pasos" : [3,24,86,87,88,90]
   },{
     "id" : 4,
     "nombre" : "Nicolás de Bussy y Mignan",
-    "pasos" : []
+    "pasos" : [4,49,50,53]
   },{
     "id" : 5,
     "nombre" : "Gregorio Fernández-Henarejos",
-    "pasos" : []
+    "pasos" : [5,6]
   },{
     "id" : 6,
     "nombre" : "Francisco Salzillo y Alacaráz",
-    "pasos" : []
+    "pasos" : [7,8,17,22,25,26,36,43,60,61,62,63,64,65,67,68,70,71]
   },{
     "id" : 7,
     "nombre" : "Antonio Jesús Yuste Navarro",
-    "pasos" : []
+    "pasos" : [9]
   },{
     "id" : 8,
     "nombre" : "Antonio Dorrego",
-    "pasos" : []
+    "pasos" : [10]
   },{
     "id" : 9,
     "nombre" : "Arturo Serra Gómez",
-    "pasos" : []
+    "pasos" : [11]
   },{
     "id" : 10,
     "nombre" : "Manuel Ardil Pagán",
-    "pasos" : []
+    "pasos" : [14]
   },{
     "id" : 11,
     "nombre" : "Pedro J. Arrué de Mora",
-    "pasos" : []
+    "pasos" : [14]
   },{
     "id" : 12,
     "nombre" : "Ramón Cuenca Santo",
-    "pasos" : []
+    "pasos" : [16,45,50,80]
   },{
     "id" : 13,
     "nombre" : "Francisco Liza Alarcón",
-    "pasos" : []
+    "pasos" : [19,20,83]
   },{
     "id" : 14,
     "nombre" : "Antonio Castaño Liza",
-    "pasos" : []
+    "pasos" : [20]
   },{
     "id" : 15,
     "nombre" : "Santiago Baglieto Gierra",
-    "pasos" : []
+    "pasos" : [23]
   },{
     "id" : 16,
     "nombre" : "José Sánchez Lozano",
-    "pasos" : []
+    "pasos" : [29,31,33,37,39,50,79,93]
   },{
     "id" : 17,
     "nombre" : "Damián Pastor y Micó",
-    "pasos" : []
+    "pasos" : [30]
   },{
     "id" : 18,
     "nombre" : "Salvador Castillejos",
-    "pasos" : []
+    "pasos" : [30]
   },{
     "id" : 19,
     "nombre" : "Miguel Martínez Fernández",
-    "pasos" : []
+    "pasos" : [33]
   },{
     "id" : 20,
     "nombre" : "Francisco Toledo Sánchez",
-    "pasos" : []
+    "pasos" : [34]
   },{
     "id" : 21,
     "nombre" : "Roque López Duarte",
-    "pasos" : []
+    "pasos" : [36,42,46,55,76]
   },{
     "id" : 22,
     "nombre" : "Francisco Sánchez Araciel",
-    "pasos" : []
+    "pasos" : [36,89]
   },{
     "id" : 23,
     "nombre" : "Vicente Segura Valls",
-    "pasos" : []
+    "pasos" : [38]
   },{
     "id" : 24,
     "nombre" : "Anónimo",
-    "pasos" : []
+    "pasos" : [40,44,56,59,66,75,82]
   },{
     "id" : 25,
     "nombre" : "Nicolás Salzillo y Gallo",
-    "pasos" : []
+    "pasos" : [41]
   },{
     "id" : 26,
     "nombre" : "Juan González Moreno",
-    "pasos" : []
+    "pasos" : [48,51,72,73,74]
   },{
     "id" : 27,
     "nombre" : "Gregorio Molera Torá",
-    "pasos" : []
+    "pasos" : [49]
   },{
     "id" : 28,
     "nombre" : "Juan Dorado Brisa",
-    "pasos" : []
+    "pasos" : [54]
   },{
     "id" : 29,
     "nombre" : "Antonio Campillo Párraga",
-    "pasos" : []
+    "pasos" : [58]
   },{
     "id" : 30,
     "nombre" : "Vicente Hernández Couquet",
-    "pasos" : []
+    "pasos" : [69]
   },{
     "id" : 31,
     "nombre" : "Domingo Beltrán",
-    "pasos" : []
+    "pasos" : [77]
   },{
     "id" : 32,
     "nombre" : "Diego de Ayala",
-    "pasos" : []
+    "pasos" : [81]
   },{
     "id" : 33,
     "nombre" : "Clemente Cantos Sánchez",
-    "pasos" : []
+    "pasos" : [84]
   },{
     "id" : 34,
     "nombre" : "José Planes Peñalver",
-    "pasos" : []
+    "pasos" : [85]
   },{
     "id" : 35,
     "nombre" : "Antonio García Mengual",
-    "pasos" : []
+    "pasos" : [85]
   },{
     "id" : 36,
     "nombre" : "Venancio Marco Roig",
-    "pasos" : []
+    "pasos" : [92]
   }
 ]
 }
