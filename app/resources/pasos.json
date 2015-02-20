@@ -413,7 +413,7 @@
     "un_escultor" : true,
     "escultores" : [{
       "id" : 24,
-      "fecha" : "S. XVII."
+      "fecha" : "S. XVII"
     }],
     "cofradia" : 6,
     "procesion" : 6,
@@ -581,18 +581,18 @@
     "nombre" : "Jesús de la Humillación",
     "un_escultor" : true,
     "escultores" : [{
-      "id" : 0,
-      "fecha" : ""
+      "id" : 24,
+      "fecha" : "S. XVII"
     }],
     "cofradia" : 8,
     "procesion" : 9,
   },{
     "id" : 57,
-    "nombre" : "",
+    "nombre" : "Cristo del Amor en la Conversión del Buen Ladrón",
     "un_escultor" : true,
     "escultores" : [{
-      "id" : 0,
-      "fecha" : ""
+      "id" : 2,
+      "fecha" : "2011"
     }],
     "cofradia" : 8,
     "procesion" : 9,
@@ -601,11 +601,131 @@
     "nombre" : "Nuestra Señora de la Soledad",
     "un_escultor" : true,
     "escultores" : [{
-      "id" : 0,
-      "fecha" : ""
+      "id" : 29,
+      "fecha" : "1985"
     }],
     "cofradia" : 8,
     "procesion" : 9,
+  },{
+    "id" : 59,
+    "nombre" : "Santísimo Cristo del Refugio",
+    "un_escultor" : true,
+    "escultores" : [{
+      "id" : 24,
+      "fecha" : "S. XVI"
+    }],
+    "cofradia" : 9,
+    "procesion" : 10,
+  },{
+    "id" : 60,
+    "nombre" : "La Santa Cena",
+    "un_escultor" : true,
+    "escultores" : [{
+      "id" : 6,
+      "fecha" : "1763"
+    }],
+    "cofradia" : 10,
+    "procesion" : 11,
+  },{
+    "id" : 61,
+    "nombre" : "La Oración en el Huerto",
+    "un_escultor" : true,
+    "escultores" : [{
+      "id" : 6,
+      "fecha" : "1754"
+    }],
+    "cofradia" : 10,
+    "procesion" : 11,
+  },{
+    "id" : 62,
+    "nombre" : "El Prendimiento",
+    "un_escultor" : true,
+    "escultores" : [{
+      "id" : 6,
+      "fecha" : "1763"
+    }],
+    "cofradia" : 10,
+    "procesion" : 11,
+  },{
+    "id" : 63,
+    "nombre" : "Los Azotes",
+    "un_escultor" : true,
+    "escultores" : [{
+      "id" : 6,
+      "fecha" : "1777"
+    }],
+    "cofradia" : 10,
+    "procesion" : 11,
+  },{
+    "id" : 64,
+    "nombre" : "La Verónica",
+    "un_escultor" : true,
+    "escultores" : [{
+      "id" : 6,
+      "fecha" : "1755"
+    }],
+    "cofradia" : 10,
+    "procesion" : 11,
+  },{
+    "id" : 65,
+    "nombre" : "La Caída",
+    "un_escultor" : true,
+    "escultores" : [{
+      "id" : 6,
+      "fecha" : "1752"
+    }],
+    "cofradia" : 10,
+    "procesion" : 11,
+  },{
+    "id" : 66,
+    "nombre" : "Nuestro Padre Jesús Nazareno",
+    "un_escultor" : true,
+    "escultores" : [{
+      "id" : 24,
+      "fecha" : "Anterior a 1600"
+    }],
+    "cofradia" : 10,
+    "procesion" : 11,
+  },{
+    "id" : 67,
+    "nombre" : "San Juan",
+    "un_escultor" : true,
+    "escultores" : [{
+      "id" : 6,
+      "fecha" : "1756"
+    }],
+    "cofradia" : 10,
+    "procesion" : 11,
+  },{
+    "id" : 68,
+    "nombre" : "La Dolorosa",
+    "un_escultor" : true,
+    "escultores" : [{
+      "id" : 6,
+      "fecha" : "1755"
+    }],
+    "cofradia" : 10,
+    "procesion" : 11,
+  },{
+    "id" : 69,
+    "nombre" : "Ángel Servita. San Gabriel",
+    "un_escultor" : true,
+    "escultores" : [{
+      "id" : 30,
+      "fecha" : "1858"
+    }],
+    "cofradia" : 11,
+    "procesion" : 12,
+  },{
+    "id" : 70,
+    "nombre" : "María Santísima de las Angustias",
+    "un_escultor" : true,
+    "escultores" : [{
+      "id" : 6,
+      "fecha" : "1739"
+    }],
+    "cofradia" : 11,
+    "procesion" : 12,
   },{
     "id" : 0,
     "nombre" : "",
