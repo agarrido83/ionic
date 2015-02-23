@@ -1,7 +1,8 @@
-(function() {
-  'use strict';
+(function(){
+'use strict';
 
-   angular.module('config', [])
+ angular.module('config', [])
 
-  .constant('ENV', {name:'development',apiEndpoint:'http://dev.yoursite.com:10000/'});
+.constant('ENV', {name:'development',apiEndpoint:'http://dev.yoursite.com:10000/'});
+
 })();

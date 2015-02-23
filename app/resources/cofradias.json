@@ -1,4 +1,4 @@
-{ "cofradías" : [
+[
   {
     "id" : 1,
     "nombre" : "Venerable Cofradía del Santísimo Cristo del Amparo y María Santísma de los Dolores",
@@ -76,4 +76,3 @@
     "procesiones" : [17]
   }
 ]
-}

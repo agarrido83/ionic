@@ -1,6 +1,6 @@
 (function() {
   'use strict';
-  // Ionic Starter App
+  // Pasión Murciana App
 
   // angular.module is a global place for creating, registering and retrieving Angular modules
   // 'app' is the name of this angular module example (also set in a <body> attribute in index.html)
@@ -32,15 +32,16 @@
       controller: 'AppCtrl'
     })
 
-    .state('app.search', {
-      url: '/search',
+    .state('app.cofradias', {
+      url: '/cofradias',
       views: {
         'menuContent': {
-          templateUrl: 'templates/search.html'
+          templateUrl: 'templates/cofradias.html',
+          controller: 'CofradiasCtrl'
         }
       }
     })
-
+/*
     .state('app.browse', {
       url: '/browse',
       views: {
@@ -49,16 +50,17 @@
         }
       }
     })
-      .state('app.playlists', {
-        url: '/playlists',
-        views: {
-          'menuContent': {
-            templateUrl: 'templates/playlists.html',
-            controller: 'PlaylistsCtrl'
-          }
+    */
+    .state('app.playlists', {
+      url: '/playlists',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/playlists.html',
+          controller: 'PlaylistsCtrl'
         }
-      })
-
+      }
+    });
+/*
     .state('app.single', {
       url: '/playlists/:playlistId',
       views: {
@@ -68,8 +70,9 @@
         }
       }
     });
+    */
     // if none of the above states are matched, use this as the fallback
     $urlRouterProvider.otherwise('/app/playlists');
-  });
 
+  });
 })();
