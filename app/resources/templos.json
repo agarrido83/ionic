@@ -1,4 +1,4 @@
-{ "templos" : [
+[
   {
     "id" : 1,
     "nombre" : "Iglesia Parroquial de San Nicolás de Bari",
@@ -66,4 +66,3 @@
     "procesiones" : [17]
   }
 ]
-}

@@ -1,4 +1,4 @@
-{ "escultores" : [
+[
   {
     "id" : 1,
     "nombre" : "Rafael Roses Rivadavia",
@@ -145,4 +145,3 @@
     "pasos" : [92]
   }
 ]
-}

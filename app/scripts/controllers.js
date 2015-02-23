@@ -6,6 +6,13 @@
   .controller('AppCtrl', function() {
   })
 
+  .controller('SemanaSantaCtrl', ['$scope', 'Dias', function($scope, Dias) {
+    Dias.getDias()
+      .then(function(data) {
+        $scope.dias = data;
+      });
+  }])
+
   .controller('CofradiasCtrl', ['$scope','Cofradias', function($scope,Cofradias) {
     Cofradias.getCofradias()
       .then(function(data) {
@@ -13,19 +20,32 @@
       });
   }])
 
-  .controller('PlaylistsCtrl', function($scope) {
-    $scope.playlists = [
-      { title: 'Reggae', id: 1 },
-      { title: 'Chill', id: 2 },
-      { title: 'Dubstep', id: 3 },
-      { title: 'Indie', id: 4 },
-      { title: 'Rap', id: 5 },
-      { title: 'Cowbell', id: 6 }
-    ];
-  });
+  .controller('CofradiaCtrl', ['$scope','Cofradias', function($scope,Cofradias) {
+    Cofradias.getCofradia()
+      .then(function(data) {
+        $scope.cofradias = data;
+      });
+  }])
 
-  /*
-  .controller('PlaylistCtrl', function($scope, $stateParams) {
-  });*/
+  .controller('TemplosCtrl', ['$scope','Templos', function($scope,Templos) {
+    Templos.getTemplos()
+      .then(function(data) {
+        $scope.templos = data;
+      });
+  }])
+
+  .controller('PasosCtrl', ['$scope','Pasos', function($scope,Pasos) {
+    Pasos.getPasos()
+      .then(function(data) {
+        $scope.pasos = data;
+      });
+  }])
+
+  .controller('EscultoresCtrl', ['$scope','Escultores', function($scope,Escultores) {
+    Escultores.getEscultores()
+      .then(function(data) {
+        $scope.escultores = data;
+      });
+  }]);
 
 })();

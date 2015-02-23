@@ -1,4 +1,4 @@
-{ "pasos" : [
+[
   {
     "id" : 1,
     "nombre" : "Ángel de la Pasión",
@@ -7,7 +7,7 @@
       "fecha" : "1995"
     }],
     "cofradia" : 1,
-    "procesion" : 1,
+    "procesion" : 1
   },{
     "id" : 2,
     "nombre" : "Sagrada Flagelación",
@@ -16,7 +16,7 @@
       "fecha" : "1994-1996"
     }],
     "cofradia" : 1,
-    "procesion" : 1,
+    "procesion" : 1
   },{
     "id" : 3,
     "nombre" : "Jesús ante Pilatos",
@@ -25,7 +25,7 @@
       "fecha" : "1991-1994"
     }],
     "cofradia" : 1,
-    "procesion" : 1,
+    "procesion" : 1
   },{
     "id" : 4,
     "nombre" : "Jesús del Gran Poder",
@@ -34,7 +34,7 @@
       "fecha" : "1693"
     }],
     "cofradia" : 1,
-    "procesion" : 1,
+    "procesion" : 1
   },{
     "id" : 5,
     "nombre" : "Encuentro en el Camino del Calvario",
@@ -43,7 +43,7 @@
       "fecha" : "1996"
     }],
     "cofradia" : 1,
-    "procesion" : 1,
+    "procesion" : 1
   },{
     "id" : 6,
     "nombre" : "San Juan",
@@ -52,7 +52,7 @@
       "fecha" : "2001"
     }],
     "cofradia" : 1,
-    "procesion" : 1,
+    "procesion" : 1
   },{
     "id" : 7,
     "nombre" : "María Santísima de los Dolores",
@@ -61,7 +61,7 @@
       "fecha" : "1741"
     }],
     "cofradia" : 1,
-    "procesion" : 1,
+    "procesion" : 1
   },{
     "id" : 8,
     "nombre" : "Santísimo Cristo del Amparo",
@@ -70,7 +70,7 @@
       "fecha" : "1739"
     }],
     "cofradia" : 1,
-    "procesion" : 1,
+    "procesion" : 1
   },{
     "id" : 9,
     "nombre" : "Santa María de los Ángeles",
@@ -79,7 +79,7 @@
       "fecha" : "2014"
     }],
     "cofradia" : 2,
-    "procesion" : 2,
+    "procesion" : 2
   },{
     "id" : 10,
     "nombre" : "Santísimo Cristo de la Fe",
@@ -88,7 +88,7 @@
       "fecha" : "1959"
     }],
     "cofradia" : 2,
-    "procesion" : 2,
+    "procesion" : 2
   },{
     "id" : 11,
     "nombre" : "La Oración en el Huerto",
@@ -97,7 +97,7 @@
       "fecha" : "1996"
     }],
     "cofradia" : 3,
-    "procesion" : 3,
+    "procesion" : 3
   },{
     "id" : 12,
     "nombre" : "La Flagelación",
@@ -106,7 +106,7 @@
       "fecha" : "2007"
     }],
     "cofradia" : 3,
-    "procesion" : 3,
+    "procesion" : 3
   },{
     "id" : 13,
     "nombre" : "La Coronación de Espinas",
@@ -115,7 +115,7 @@
       "fecha" : "2009-2013"
     }],
     "cofradia" : 3,
-    "procesion" : 3,
+    "procesion" : 3
   },{
     "id" : 14,
     "nombre" : "Nuestro Padre Jesús Camino del Calvario",
@@ -127,7 +127,7 @@
       "fecha" : "2006"
     }],
     "cofradia" : 3,
-    "procesion" : 3,
+    "procesion" : 3
   },{
     "id" : 15,
     "nombre" : "Santa Mujer Verónica",
@@ -136,7 +136,7 @@
       "fecha" : "2003"
     }],
     "cofradia" : 3,
-    "procesion" : 3,
+    "procesion" : 3
   },{
     "id" : 16,
     "nombre" : "San juan",
@@ -145,7 +145,7 @@
       "fecha" : "2013"
     }],
     "cofradia" : 3,
-    "procesion" : 3,
+    "procesion" : 3
   },{
     "id" : 17,
     "nombre" : "María Dolorosa",
@@ -154,7 +154,7 @@
       "fecha" : "1742"
     }],
     "cofradia" : 3,
-    "procesion" : 3,
+    "procesion" : 3
   },{
     "id" : 18,
     "nombre" : "Santísimo Cristo de la Caridad",
@@ -163,7 +163,7 @@
       "fecha" : "1994"
     }],
     "cofradia" : 3,
-    "procesion" : 3,
+    "procesion" : 3
   },{
     "id" : 19,
     "nombre" : "Dejad que los niños se acerquen a mí",
@@ -172,7 +172,7 @@
       "fecha" : "2009"
     }],
     "cofradia" : 4,
-    "procesion" : 4,
+    "procesion" : 4
   },{
     "id" : 20,
     "nombre" : "Arrepentimiento y Perdón de María Magdalena",
@@ -184,7 +184,7 @@
       "fecha" : "1983-2014"
     }],
     "cofradia" : 4,
-    "procesion" : 4,
+    "procesion" : 4
   },{
     "id" : 21,
     "nombre" : "Entrada de Jesús en Jerusalén",
@@ -193,7 +193,7 @@
       "fecha" : "1984-1987"
     }],
     "cofradia" : 4,
-    "procesion" : 4,
+    "procesion" : 4
   },{
     "id" : 22,
     "nombre" : "San Pedro Arrepentido",
@@ -202,7 +202,7 @@
       "fecha" : "1780"
     }],
     "cofradia" : 4,
-    "procesion" : 4,
+    "procesion" : 4
   },{
     "id" : 23,
     "nombre" : "Nuestro Padre Jesús Nazareno de la Penitencia",
@@ -211,7 +211,7 @@
       "fecha" : "1817"
     }],
     "cofradia" : 4,
-    "procesion" : 4,
+    "procesion" : 4
   },{
     "id" : 24,
     "nombre" : "San Juan Evangelista",
@@ -220,7 +220,7 @@
       "fecha" : "1984"
     }],
     "cofradia" : 4,
-    "procesion" : 4,
+    "procesion" : 4
   },{
     "id" : 25,
     "nombre" : "María Santísima de los Dolores",
@@ -229,7 +229,7 @@
       "fecha" : "Hacia 1756"
     }],
     "cofradia" : 4,
-    "procesion" : 4,
+    "procesion" : 4
   },{
     "id" : 26,
     "nombre" : "Santísimo Cristo de la Esperanza",
@@ -238,7 +238,7 @@
       "fecha" : "1755"
     }],
     "cofradia" : 4,
-    "procesion" : 4,
+    "procesion" : 4
   },{
     "id" : 27,
     "nombre" : "Ángeles de la Pasión",
@@ -247,7 +247,7 @@
       "fecha" : "2012"
     }],
     "cofradia" : 5,
-    "procesion" : 5,
+    "procesion" : 5
   },{
     "id" : 28,
     "nombre" : "Getsemaní",
@@ -256,7 +256,7 @@
       "fecha" : "1996"
     }],
     "cofradia" : 5,
-    "procesion" : 5,
+    "procesion" : 5
   },{
     "id" : 29,
     "nombre" : "El Prendimiento",
@@ -265,7 +265,7 @@
       "fecha" : "1947-1948"
     }],
     "cofradia" : 5,
-    "procesion" : 5,
+    "procesion" : 5
   },{
     "id" : 30,
     "nombre" : "Jesús ante Caifás",
@@ -277,7 +277,7 @@
       "fecha" : "(Tribunal) 1944"
     }],
     "cofradia" : 5,
-    "procesion" : 5,
+    "procesion" : 5
   },{
     "id" : 31,
     "nombre" : "La Flagelación",
@@ -286,7 +286,7 @@
       "fecha" : "1945"
     }],
     "cofradia" : 5,
-    "procesion" : 5,
+    "procesion" : 5
   },{
     "id" : 32,
     "nombre" : "La Coronación de Espinas",
@@ -295,7 +295,7 @@
       "fecha" : "1982"
     }],
     "cofradia" : 5,
-    "procesion" : 5,
+    "procesion" : 5
   },{
     "id" : 33,
     "nombre" : "Encuentro en la Vía Dolorosa",
@@ -304,10 +304,10 @@
       "fecha" : "(Cristo) 1948"
     },{
       "escultor" : 19,
-      "fecha" : "(Virgen y San Juan) 1924",
+      "fecha" : "(Virgen y San Juan) 1924"
     }],
     "cofradia" : 5,
-    "procesion" : 5,
+    "procesion" : 5
   },{
     "id" : 34,
     "nombre" : "La Verónica",
@@ -316,7 +316,7 @@
       "fecha" : "1954"
     }],
     "cofradia" : 5,
-    "procesion" : 5,
+    "procesion" : 5
   },{
     "id" : 35,
     "nombre" : "El Ascendimiento",
@@ -325,7 +325,7 @@
       "fecha" : "1988"
     }],
     "cofradia" : 5,
-    "procesion" : 5,
+    "procesion" : 5
   },{
     "id" : 36,
     "nombre" : "Santísimo Cristo del Perdón",
@@ -340,7 +340,7 @@
       "fecha" : "(Magdalena) 1897"
     }],
     "cofradia" : 5,
-    "procesion" : 5,
+    "procesion" : 5
   },{
     "id" : 37,
     "nombre" : "Virgen de la Soledad",
@@ -349,7 +349,7 @@
       "fecha" : "1948"
     }],
     "cofradia" : 5,
-    "procesion" : 5,
+    "procesion" : 5
   },{
     "id" : 38,
     "nombre" : "Cruz Guía",
@@ -358,7 +358,7 @@
       "fecha" : "1955"
     }],
     "cofradia" : 6,
-    "procesion" : 6,
+    "procesion" : 6
   },{
     "id" : 39,
     "nombre" : "María Santísima de la Esperanza",
@@ -367,7 +367,7 @@
       "fecha" : "1948"
     }],
     "cofradia" : 6,
-    "procesion" : 6,
+    "procesion" : 6
   },{
     "id" : 40,
     "nombre" : "Nuestro Padre Jesús del Rescate",
@@ -376,7 +376,7 @@
       "fecha" : "S. XVII"
     }],
     "cofradia" : 6,
-    "procesion" : 6,
+    "procesion" : 6
   },{
     "id" : 41,
     "nombre" : "Nuestro Padre Jesús de las Mercedes",
@@ -385,7 +385,7 @@
       "fecha" : "1713-1725"
     }],
     "cofradia" : 7,
-    "procesion" : 7,
+    "procesion" : 7
   },{
     "id" : 42,
     "nombre" : "San Juan Evangelista",
@@ -394,7 +394,7 @@
       "fecha" : "1791"
     }],
     "cofradia" : 7,
-    "procesion" : 7,
+    "procesion" : 7
   },{
     "id" : 43,
     "nombre" : "Santísima Virgen del Primer Dolor",
@@ -403,7 +403,7 @@
       "fecha" : "1740"
     }],
     "cofradia" : 7,
-    "procesion" : 7,
+    "procesion" : 7
   },{
     "id" : 44,
     "nombre" : "Santísimo Cristo de la Salud",
@@ -412,7 +412,7 @@
       "fecha" : "Ss. XV-XVI"
     }],
     "cofradia" : 7,
-    "procesion" : 7,
+    "procesion" : 7
   },{
     "id" : 45,
     "nombre" : "San Vicente Ferrer",
@@ -421,7 +421,7 @@
       "fecha" : "2011"
     }],
     "cofradia" : 8,
-    "procesion" : 8,
+    "procesion" : 8
   },{
     "id" : 46,
     "nombre" : "La Samaritana",
@@ -430,7 +430,7 @@
       "fecha" : "1799"
     }],
     "cofradia" : 8,
-    "procesion" : 8,
+    "procesion" : 8
   },{
     "id" : 47,
     "nombre" : "Jesús en casa de Lázaro",
@@ -439,7 +439,7 @@
       "fecha" : "1985"
     }],
     "cofradia" : 8,
-    "procesion" : 8,
+    "procesion" : 8
   },{
     "id" : 48,
     "nombre" : "El Lavatorio",
@@ -448,7 +448,7 @@
       "fecha" : "1952"
     }],
     "cofradia" : 8,
-    "procesion" : 8,
+    "procesion" : 8
   },{
     "id" : 49,
     "nombre" : "La Negación de San Pedro",
@@ -460,7 +460,7 @@
       "fecha" : "(Cristo) 1945"
     }],
     "cofradia" : 8,
-    "procesion" : 8,
+    "procesion" : 8
   },{
     "id" : 50,
     "nombre" : "El Pretorio",
@@ -475,7 +475,7 @@
       "fecha" : "(Soldado romano) 2011"
     }],
     "cofradia" : 8,
-    "procesion" : 8,
+    "procesion" : 8
   },{
     "id" : 51,
     "nombre" : "Las Hijas de Jerusalén",
@@ -484,7 +484,7 @@
       "fecha" : "1956"
     }],
     "cofradia" : 8,
-    "procesion" : 8,
+    "procesion" : 8
   },{
     "id" : 52,
     "nombre" : "El Cristo de las Penas",
@@ -493,7 +493,7 @@
       "fecha" : "1986"
     }],
     "cofradia" : 8,
-    "procesion" : 8,
+    "procesion" : 8
   },{
     "id" : 53,
     "nombre" : "Santísimo Cristo de la Sangre",
@@ -502,7 +502,7 @@
       "fecha" : "1693"
     }],
     "cofradia" : 8,
-    "procesion" : 8,
+    "procesion" : 8
   },{
     "id" : 54,
     "nombre" : "San Juan",
@@ -511,7 +511,7 @@
       "fecha" : "1905"
     }],
     "cofradia" : 8,
-    "procesion" : 8,
+    "procesion" : 8
   },{
     "id" : 55,
     "nombre" : "La Dolorosa",
@@ -520,7 +520,7 @@
       "fecha" : "1787"
     }],
     "cofradia" : 8,
-    "procesion" : 8,
+    "procesion" : 8
   },{
     "id" : 56,
     "nombre" : "Jesús de la Humillación",
@@ -529,7 +529,7 @@
       "fecha" : "S. XVII"
     }],
     "cofradia" : 8,
-    "procesion" : 9,
+    "procesion" : 9
   },{
     "id" : 57,
     "nombre" : "Cristo del Amor en la Conversión del Buen Ladrón",
@@ -538,7 +538,7 @@
       "fecha" : "2011"
     }],
     "cofradia" : 8,
-    "procesion" : 9,
+    "procesion" : 9
   },{
     "id" : 58,
     "nombre" : "Nuestra Señora de la Soledad",
@@ -547,7 +547,7 @@
       "fecha" : "1985"
     }],
     "cofradia" : 8,
-    "procesion" : 9,
+    "procesion" : 9
   },{
     "id" : 59,
     "nombre" : "Santísimo Cristo del Refugio",
@@ -556,7 +556,7 @@
       "fecha" : "S. XVI"
     }],
     "cofradia" : 9,
-    "procesion" : 10,
+    "procesion" : 10
   },{
     "id" : 60,
     "nombre" : "La Santa Cena",
@@ -565,7 +565,7 @@
       "fecha" : "1763"
     }],
     "cofradia" : 10,
-    "procesion" : 11,
+    "procesion" : 11
   },{
     "id" : 61,
     "nombre" : "La Oración en el Huerto",
@@ -574,7 +574,7 @@
       "fecha" : "1754"
     }],
     "cofradia" : 10,
-    "procesion" : 11,
+    "procesion" : 11
   },{
     "id" : 62,
     "nombre" : "El Prendimiento",
@@ -583,7 +583,7 @@
       "fecha" : "1763"
     }],
     "cofradia" : 10,
-    "procesion" : 11,
+    "procesion" : 11
   },{
     "id" : 63,
     "nombre" : "Los Azotes",
@@ -592,7 +592,7 @@
       "fecha" : "1777"
     }],
     "cofradia" : 10,
-    "procesion" : 11,
+    "procesion" : 11
   },{
     "id" : 64,
     "nombre" : "La Verónica",
@@ -601,7 +601,7 @@
       "fecha" : "1755"
     }],
     "cofradia" : 10,
-    "procesion" : 11,
+    "procesion" : 11
   },{
     "id" : 65,
     "nombre" : "La Caída",
@@ -610,7 +610,7 @@
       "fecha" : "1752"
     }],
     "cofradia" : 10,
-    "procesion" : 11,
+    "procesion" : 11
   },{
     "id" : 66,
     "nombre" : "Nuestro Padre Jesús Nazareno",
@@ -619,7 +619,7 @@
       "fecha" : "Anterior a 1600"
     }],
     "cofradia" : 10,
-    "procesion" : 11,
+    "procesion" : 11
   },{
     "id" : 67,
     "nombre" : "San Juan",
@@ -628,7 +628,7 @@
       "fecha" : "1756"
     }],
     "cofradia" : 10,
-    "procesion" : 11,
+    "procesion" : 11
   },{
     "id" : 68,
     "nombre" : "La Dolorosa",
@@ -637,7 +637,7 @@
       "fecha" : "1755"
     }],
     "cofradia" : 10,
-    "procesion" : 11,
+    "procesion" : 11
   },{
     "id" : 69,
     "nombre" : "Ángel Servita. San Gabriel",
@@ -646,7 +646,7 @@
       "fecha" : "1858"
     }],
     "cofradia" : 11,
-    "procesion" : 12,
+    "procesion" : 12
   },{
     "id" : 70,
     "nombre" : "María Santísima de las Angustias",
@@ -655,7 +655,7 @@
       "fecha" : "1739"
     }],
     "cofradia" : 11,
-    "procesion" : 12,
+    "procesion" : 12
   },{
     "id" : 71,
     "nombre" : "Santísimo Cristo de Santa Clara la Real (de la Buena Muerte)",
@@ -664,7 +664,7 @@
       "fecha" : "1770"
     }],
     "cofradia" : 12,
-    "procesion" : 13,
+    "procesion" : 13
   },{
     "id" : 72,
     "nombre" : "Santísima Virgen de la Amargura",
@@ -673,7 +673,7 @@
       "fecha" : "1946"
     }],
     "cofradia" : 12,
-    "procesion" : 13,
+    "procesion" : 13
   },{
     "id" : 73,
     "nombre" : "Santo Sepulcro",
@@ -682,7 +682,7 @@
       "fecha" : "1941"
     }],
     "cofradia" : 12,
-    "procesion" : 13,
+    "procesion" : 13
   },{
     "id" : 74,
     "nombre" : "San Juan Evangelista",
@@ -691,7 +691,7 @@
       "fecha" : "1952"
     }],
     "cofradia" : 12,
-    "procesion" : 13,
+    "procesion" : 13
   },{
     "id" : 75,
     "nombre" : "Santísima Virgen de la Soledad",
@@ -700,7 +700,7 @@
       "fecha" : "S. XVII"
     }],
     "cofradia" : 12,
-    "procesion" : 13,
+    "procesion" : 13
   },{
     "id" : 76,
     "nombre" : "Jesús Nazareno",
@@ -709,7 +709,7 @@
       "fecha" : "1797"
     }],
     "cofradia" : 13,
-    "procesion" : 14,
+    "procesion" : 14
   },{
     "id" : 77,
     "nombre" : "Santísimo Cristo de la Misericordia",
@@ -718,7 +718,7 @@
       "fecha" : "1581"
     }],
     "cofradia" : 13,
-    "procesion" : 14,
+    "procesion" : 14
   },{
     "id" : 78,
     "nombre" : "Descendimiento",
@@ -727,7 +727,7 @@
       "fecha" : "2001"
     }],
     "cofradia" : 13,
-    "procesion" : 14,
+    "procesion" : 14
   },{
     "id" : 79,
     "nombre" : "Nuestra Señora Madre de la Misericordia",
@@ -736,7 +736,7 @@
       "fecha" : "1927"
     }],
     "cofradia" : 13,
-    "procesion" : 14,
+    "procesion" : 14
   },{
     "id" : 80,
     "nombre" : "Nuestra Señora del Rosario en sus Misterios Dolorosos",
@@ -745,7 +745,7 @@
       "fecha" : "2013"
     }],
     "cofradia" : 3,
-    "procesion" : 15,
+    "procesion" : 15
   },{
     "id" : 81,
     "nombre" : "Santísimo Cristo Yacente",
@@ -754,7 +754,7 @@
       "fecha" : "1574"
     }],
     "cofradia" : 14,
-    "procesion" : 16,
+    "procesion" : 16
   },{
     "id" : 82,
     "nombre" : "Nuestra Señora de la Luz en su Soledad",
@@ -763,7 +763,7 @@
       "fecha" : "S. XVII"
     }],
     "cofradia" : 14,
-    "procesion" : 16,
+    "procesion" : 16
   },{
     "id" : 83,
     "nombre" : "San Miguel Arcángel",
@@ -772,7 +772,7 @@
       "fecha" : "1994"
     }],
     "cofradia" : 15,
-    "procesion" : 17,
+    "procesion" : 17
   },{
     "id" : 84,
     "nombre" : "La Cruz Triunfante",
@@ -781,7 +781,7 @@
       "fecha" : "1917"
     }],
     "cofradia" : 15,
-    "procesion" : 17,
+    "procesion" : 17
   },{
     "id" : 85,
     "nombre" : "Nuestro Señor Jesucristo Resucitado",
@@ -793,7 +793,7 @@
       "fecha" : "(Romano) 1972"
     }],
     "cofradia" : 15,
-    "procesion" : 17,
+    "procesion" : 17
   },{
     "id" : 86,
     "nombre" : "Las Tres Marías y el Ángel del Señor",
@@ -802,7 +802,7 @@
       "fecha" : "1993"
     }],
     "cofradia" : 15,
-    "procesion" : 17,
+    "procesion" : 17
   },{
     "id" : 87,
     "nombre" : "Aparición de Jesús a María Magdalena",
@@ -811,7 +811,7 @@
       "fecha" : "1982"
     }],
     "cofradia" : 15,
-    "procesion" : 17,
+    "procesion" : 17
   },{
     "id" : 88,
     "nombre" : "Los Discípulos de Emaús",
@@ -820,7 +820,7 @@
       "fecha" : "1983"
     }],
     "cofradia" : 15,
-    "procesion" : 17,
+    "procesion" : 17
   },{
     "id" : 89,
     "nombre" : "La Aparición de Jesús a Santo Tomás",
@@ -832,7 +832,7 @@
       "fecha" : "(Cristo) 1994"
     }],
     "cofradia" : 15,
-    "procesion" : 17,
+    "procesion" : 17
   },{
     "id" : 90,
     "nombre" : "Aparición de Jesús en el Lago Tiberiades",
@@ -841,7 +841,7 @@
       "fecha" : "1987-1989"
     }],
     "cofradia" : 15,
-    "procesion" : 17,
+    "procesion" : 17
   },{
     "id" : 91,
     "nombre" : "La Ascesción del Señor",
@@ -850,7 +850,7 @@
       "fecha" : "2000"
     }],
     "cofradia" : 15,
-    "procesion" : 17,
+    "procesion" : 17
   },{
     "id" : 92,
     "nombre" : "San Juan Evangelista",
@@ -859,7 +859,7 @@
       "fecha" : "1912"
     }],
     "cofradia" : 15,
-    "procesion" : 17,
+    "procesion" : 17
   },{
     "id" : 93,
     "nombre" : "La Virgen Gloriosa",
@@ -868,7 +868,6 @@
       "fecha" : "1950"
     }],
     "cofradia" : 15,
-    "procesion" : 17,
+    "procesion" : 17
   }
 ]
-}

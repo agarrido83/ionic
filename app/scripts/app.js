@@ -32,6 +32,16 @@
       controller: 'AppCtrl'
     })
 
+    .state('app.semana_santa', {
+      url: '/semana_santa',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/semana_santa.html',
+          controller: 'SemanaSantaCtrl'
+        }
+      }
+    })
+
     .state('app.cofradias', {
       url: '/cofradias',
       views: {
@@ -41,38 +51,49 @@
         }
       }
     })
-/*
-    .state('app.browse', {
-      url: '/browse',
+
+    .state('app.cofradias.cofradia', {
+      url: '/cofradias/:cofradiaId',
       views: {
         'menuContent': {
-          templateUrl: 'templates/browse.html'
+          templateUrl: 'templates/cofradia.html',
+          controller: 'CofradiaCtrl'
         }
       }
     })
-    */
-    .state('app.playlists', {
-      url: '/playlists',
+
+    .state('app.templos', {
+      url: '/templos',
       views: {
         'menuContent': {
-          templateUrl: 'templates/playlists.html',
-          controller: 'PlaylistsCtrl'
+          templateUrl: 'templates/templos.html',
+          controller: 'TemplosCtrl'
+        }
+      }
+    })
+
+    .state('app.pasos', {
+      url: '/pasos',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/pasos.html',
+          controller: 'PasosCtrl'
+        }
+      }
+    })
+
+    .state('app.escultores', {
+      url: '/escultores',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/escultores.html',
+          controller: 'EscultoresCtrl'
         }
       }
     });
-/*
-    .state('app.single', {
-      url: '/playlists/:playlistId',
-      views: {
-        'menuContent': {
-          templateUrl: 'templates/playlist.html',
-          controller: 'PlaylistCtrl'
-        }
-      }
-    });
-    */
+
     // if none of the above states are matched, use this as the fallback
-    $urlRouterProvider.otherwise('/app/playlists');
+    $urlRouterProvider.otherwise('/app/semana_santa');
 
   });
 })();

@@ -1,4 +1,4 @@
-{ "dias" : [
+[
   {
     "id" : 1,
     "nombre" : "Viernes de Dolores",
@@ -41,4 +41,3 @@
     "procesiones" : [17]
   }
 ]
-}
