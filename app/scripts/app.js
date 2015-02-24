@@ -53,7 +53,7 @@
     })
 
     .state('app.cofradias.cofradia', {
-      url: '/cofradias/:cofradiaId',
+      url: '/{cofradiaId}',
       views: {
         'menuContent': {
           templateUrl: 'templates/cofradia.html',

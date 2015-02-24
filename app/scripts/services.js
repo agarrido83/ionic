@@ -53,7 +53,21 @@
         }, 30);
 
         return deferred.promise;
+      },
+
+      getCofradia: function(id) {
+        var deferred = $q.defer();
+
+        $timeout(function() {
+          $http.get('resources/'+id+'.json')
+            .success(function(data) {
+              deferred.resolve(data);
+            });
+        }, 30);
+
+        return deferred.promise;
       }
+
     };
   }])
 

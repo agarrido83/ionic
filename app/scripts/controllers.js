@@ -20,10 +20,11 @@
       });
   }])
 
-  .controller('CofradiaCtrl', ['$scope','Cofradias', function($scope,Cofradias) {
-    Cofradias.getCofradia()
+  .controller('CofradiaCtrl', ['$scope','Cofradias', '$routeParams', function($scope,Cofradias,$routeParams) {
+    console.log($routeParams);
+    Cofradias.getCofradia($routeParams.cofradiaId)
       .then(function(data) {
-        $scope.cofradias = data;
+        $scope.cofradia = data;
       });
   }])
 
